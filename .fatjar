@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Fri Jul 06 12:24:03 CST 2012
+onejar.license.required=false
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=MathPattern_fat.jar
+manifest.mergeall=true
+manifest.mainclass=com.FindiX.MathPattern.MathPatternUI
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=
